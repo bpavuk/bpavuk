@@ -8,3 +8,5 @@ Beginner Android ~~copypaster~~ developer. I love cats :cat: and strange things 
 
 ### Contacts ☎️
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kotlinspider)
+
+[Buy me a pizza 🍕](https://www.buymeacoffee.com/bpavuk)
